@@ -33,7 +33,7 @@ Read <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/mast
 
 <br>
 
-## Top ML and DS libraries
+## Top libraries
 * ### [Numpy](https://numpy.org/)
 * ### [Scipy](https://www.scipy.org/)
 * ### [Scikit-learn](https://scikit-learn.org/stable/index.html)

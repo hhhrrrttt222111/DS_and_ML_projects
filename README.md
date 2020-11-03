@@ -1,4 +1,4 @@
-# DS_and_ML_projects <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/DS_and_ML_projects?style=flat-square"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">
+# DS and ML Projects <img align = "right" src ="https://img.shields.io/github/watchers/hhhrrrttt222111/DS_and_ML_projects?style=flat-square"> <img align = "right" src ="https://img.shields.io/github/stars/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">    <img align = "right" src ="https://img.shields.io/github/forks/hhhrrrttt222111/DS_and_ML_projects?style=flat-square">
 
 <br>
 

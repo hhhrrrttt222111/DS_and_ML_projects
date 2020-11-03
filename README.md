@@ -17,4 +17,4 @@
 ##### Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
 
 
-For more Resources, visit  <b><a href="" target='_blank'>RESOURCES.md</a></b>
+For more Resources, visit  <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/master/RESOURCES.md" target='_blank'>RESOURCES.md</a></b>

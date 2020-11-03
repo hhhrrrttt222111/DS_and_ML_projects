@@ -46,6 +46,7 @@ Read <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/mast
 * ### [Seaborn](https://seaborn.pydata.org/) 
 * ### [NLTK](https://www.nltk.org/)
 * ### [Open CV](https://opencv.org/)
+* ### [networkx](https://networkx.org/)
 
 <br><br>
 

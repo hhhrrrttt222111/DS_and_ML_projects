@@ -18,3 +18,35 @@
 
 
 For more Resources, visit  <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/master/RESOURCES.md" target='_blank'>RESOURCES.md</a></b>
+ <br>
+Read <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/master/CONTRIBUTING.md" target='_blank'>CONTRIBUTING.md</a></b> before sending a Pull Request.
+
+<br>
+
+## Useful Downloads 
+* ### [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+* ### [Ananconda](https://www.anaconda.com/)
+* ### [Jupyter](https://jupyter.org/)
+* ### [bigML](https://bigml.com/)
+* ### [Domino](https://www.dominodatalab.com/)
+* ### [Matlab](https://www.mathworks.com/products/matlab.html)
+
+<br>
+
+## Top ML and DS libraries
+* ### [Numpy](https://numpy.org/)
+* ### [Scipy](https://www.scipy.org/)
+* ### [Scikit-learn](https://scikit-learn.org/stable/index.html)
+* ### [Theano](http://www.deeplearning.net/software/theano/)
+* ### [TensorFlow](https://www.tensorflow.org/)
+* ### [Keras](https://keras.io/)
+* ### [PyTorch](https://pytorch.org/)
+* ### [Pandas](https://pandas.pydata.org/)
+* ### [Matplotlib](https://pytorch.org/)
+* ### [Seaborn](https://seaborn.pydata.org/) 
+* ### [NLTK](https://www.nltk.org/)
+* ### [Open CV](https://opencv.org/)
+
+<br><br>
+
+### Show some :green_heart: and :star: the Repo to SUPPORT 

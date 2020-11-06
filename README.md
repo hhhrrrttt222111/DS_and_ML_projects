@@ -24,29 +24,29 @@ Read <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/mast
 <br>
 
 ## Useful Downloads 
-* ### [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-* ### [Ananconda](https://www.anaconda.com/)
-* ### [Jupyter](https://jupyter.org/)
-* ### [bigML](https://bigml.com/)
-* ### [Domino](https://www.dominodatalab.com/)
-* ### [Matlab](https://www.mathworks.com/products/matlab.html)
+* #### [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+* #### [Ananconda](https://www.anaconda.com/)
+* #### [Jupyter](https://jupyter.org/)
+* #### [bigML](https://bigml.com/)
+* #### [Domino](https://www.dominodatalab.com/)
+* #### [Matlab](https://www.mathworks.com/products/matlab.html)
 
 <br>
 
 ## Top libraries
-* ### [Numpy](https://numpy.org/)
-* ### [Scipy](https://www.scipy.org/)
-* ### [Scikit-learn](https://scikit-learn.org/stable/index.html)
-* ### [Theano](http://www.deeplearning.net/software/theano/)
-* ### [TensorFlow](https://www.tensorflow.org/)
-* ### [Keras](https://keras.io/)
-* ### [PyTorch](https://pytorch.org/)
-* ### [Pandas](https://pandas.pydata.org/)
-* ### [Matplotlib](https://pytorch.org/)
-* ### [Seaborn](https://seaborn.pydata.org/) 
-* ### [NLTK](https://www.nltk.org/)
-* ### [Open CV](https://opencv.org/)
-* ### [networkx](https://networkx.org/)
+* #### [Numpy](https://numpy.org/)
+* #### [Scipy](https://www.scipy.org/)
+* #### [Scikit-learn](https://scikit-learn.org/stable/index.html)
+* #### [Theano](http://www.deeplearning.net/software/theano/)
+* #### [TensorFlow](https://www.tensorflow.org/)
+* #### [Keras](https://keras.io/)
+* #### [PyTorch](https://pytorch.org/)
+* #### [Pandas](https://pandas.pydata.org/)
+* #### [Matplotlib](https://pytorch.org/)
+* #### [Seaborn](https://seaborn.pydata.org/) 
+* #### [NLTK](https://www.nltk.org/)
+* #### [Open CV](https://opencv.org/)
+* #### [networkx](https://networkx.org/)
 
 <br><br>
 

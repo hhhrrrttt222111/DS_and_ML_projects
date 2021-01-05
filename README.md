@@ -25,7 +25,7 @@ Read <b><a href="https://github.com/hhhrrrttt222111/DS_and_ML_projects/blob/mast
 
 ## Useful Downloads 
 * #### [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-* #### [Ananconda](https://www.anaconda.com/)
+* #### [Anaconda](https://www.anaconda.com/)
 * #### [Jupyter](https://jupyter.org/)
 * #### [bigML](https://bigml.com/)
 * #### [Domino](https://www.dominodatalab.com/)

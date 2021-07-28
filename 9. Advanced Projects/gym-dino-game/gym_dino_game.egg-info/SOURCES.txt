@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_dino_game.egg-info/PKG-INFO
+gym_dino_game.egg-info/SOURCES.txt
+gym_dino_game.egg-info/dependency_links.txt
+gym_dino_game.egg-info/requires.txt
+gym_dino_game.egg-info/top_level.txt

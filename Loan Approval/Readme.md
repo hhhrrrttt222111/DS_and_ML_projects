@@ -1,4 +1,4 @@
-# Loan Approval Machine Learning Project
+# Loan Approval Machine Learning Classification Project
 ---
 
 Modules: 
@@ -8,3 +8,9 @@ Modules:
 * `pip install seaborn`
 
 Dataset: Loan_Approval from kaggle
+
+Models Used for performance measure
+* LogisticRegression
+* SVM
+* DecisionTreeClassifier
+* KNeighborsClassifier

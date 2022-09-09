@@ -46,4 +46,29 @@
 <br>
 <br>
 
+
+## Public Datasets
+
+#### 1. [Google’s Datasets Search Engine](https://datasetsearch.research.google.com/)
+#### 2. [Kaggle Datasets](https://www.kaggle.com/datasets)
+#### 3. [Earth Dataset](https://earthdata.nasa.gov/)
+#### 4. [AWS](https://registry.opendata.aws/)
+#### 5. [Data World](https://data.world/)
+#### 6. [Lionbridge AI Datasets](https://lionbridge.ai/datasets/)
+#### 7. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+#### 8. [Data World]()
+
+
+<br><br>
+
+## Online Competitions
+
+#### 1. [Kaggle Competitions](kaggle.com/competitions)
+#### 2. [Driven Data Competitions](drivendata.org/competitions)
+#### 3. [Iron Viz](tableau.com/iron-viz)
+#### 4. [CrowdANALYTIX Community](crowdanalytix.com/community)
+#### 5. [Coda Lab Competitions](competitions.codalab.org)
+#### 6. [Topcoder Open](tco19.topcoder.com)
+
+
 ✨

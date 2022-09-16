@@ -41,6 +41,7 @@
 #### 5. [Edureka](https://www.edureka.co/blog/machine-learning-tutorial/)
 #### 6. [GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/)
 #### 7. [pythonprogramming](https://pythonprogramming.net/machine-learning-tutorials/)
+#### 8. [Guru99](https://www.guru99.com/machine-learning-tutorial.html)
 
 
 <br>
